@@ -14,10 +14,10 @@ a compiler supporting ptx converting to riscv vector extension
 ### Installation
 
 1. Clone from git
-    git clone git://10.75.136.169/CUDAptxCompiler.git 
-    cd CUDAptxCompiler
+    clone project
+    cd ptxKompilierer
 
-2. Build ptxCompiler
+2. Build ptxKompilierer
     mkdir build && cd build
     cmake ..
     make
