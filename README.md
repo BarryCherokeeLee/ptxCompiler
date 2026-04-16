@@ -1,4 +1,4 @@
-# CUDAptxCompiler
+# ptxKompilierer
 
 ## Introduction
 a compiler supporting ptx converting to riscv vector extension
