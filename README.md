@@ -1,4 +1,4 @@
-# ptxKompilierer
+# ptxCompiler
 
 ## Introduction
 a compiler supporting ptx converting to riscv vector extension
@@ -15,9 +15,9 @@ a compiler supporting ptx converting to riscv vector extension
 
 1. Clone from git
     clone project
-    cd ptxKompilierer
+    cd ptxCompiler
 
-2. Build ptxKompilierer
+2. Build ptxCompiler
     mkdir build && cd build
     cmake ..
     make
