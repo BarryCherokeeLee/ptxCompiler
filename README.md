@@ -13,16 +13,19 @@ a compiler supporting ptx converting to riscv vector extension
 
 ### Installation
 
-1. Clone from git, and: 
+1. Clone from git, and:
+   
     $ cd ptxCompiler
 
-2. Build ptxCompiler
+3. Build ptxCompiler
+   
     $ mkdir build && cd build
     $ cmake ..
     $ make
 
 ### Test case running
 1. vector multiply add ptx kernel test.....
+   
     $ ./bin/ptx_compiler ../test/vector_mul_add.ptx vector_mul_add.ll
 
 ### TODO
