@@ -20,7 +20,9 @@ a compiler supporting ptx converting to riscv vector extension
 3. Build ptxCompiler
    
     $ mkdir build && cd build
+   
     $ cmake ..
+   
     $ make
 
 ### Test case running
